@@ -2,7 +2,7 @@ namespace ConcertApi.Models;
 
 public enum VenueType
 {
-    Amphitheather,
+    Amphitheater,
     Bar,
     Club,
     Standalone,

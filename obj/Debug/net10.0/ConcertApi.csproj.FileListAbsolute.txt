@@ -149,3 +149,4 @@
 /Users/ianpletcher/VSCode Projects/ConcertApi/obj/Debug/net10.0/ConcertApi.pdb
 /Users/ianpletcher/VSCode Projects/ConcertApi/obj/Debug/net10.0/ConcertApi.genruntimeconfig.cache
 /Users/ianpletcher/VSCode Projects/ConcertApi/obj/Debug/net10.0/ref/ConcertApi.dll
+/Users/ianpletcher/VSCode Projects/ConcertApi/obj/Debug/net10.0/ConcertApi.sourcelink.json

@@ -52,8 +52,7 @@ public class ConcertService
         {
             return;
         }
-        updatedConcert.Id = id;
-        _context.Concerts.Add(updatedConcert);
+        _context.Entry(concert).CurrentValues.SetValues(updatedConcert);
         _context.SaveChanges();
     }
 
