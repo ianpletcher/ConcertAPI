@@ -6,7 +6,7 @@ namespace ConcertApi.Services;
 
 public class VenueService
 {
-    public VenueContext _context = default;
+    private readonly ConcertContext _context = default;
 
     public List<Venue> GetVenues()
     {

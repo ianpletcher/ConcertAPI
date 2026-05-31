@@ -6,9 +6,9 @@ public class Concert
 
     public DateOnly Date { get; set; }
 
-    public Venue Venue { get; set; }
+    public Venue? Venue { get; set; }
 
-    public string Artist { get; set; } = string.Empty;
+    public Artist? Artist { get; set; }
 
     public string? Support { get; set; }
 
